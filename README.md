@@ -7,7 +7,7 @@
 - 📫 You can reach me at:  
    - Email: omahar1907@gmail.com  
    - LinkedIn: [Omar Amer](https://www.linkedin.com/in/omaramer2)  
-   - GitHub: [OmarAmer2](https://github.com/omaaramer)
+   - GitHub: [OmarAmer](https://github.com/omaaramer)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I'm a problem-solver at heart, always ready to debug and optimize for **better performance**!
 
